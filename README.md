@@ -1,4 +1,4 @@
 # Landy Page
 Responsive Landing  Page Web-site
 
-You can visit web-site [https://kotsabiukmv98.github.io/Landy/](here)
+You can visit web-site [here](https://kotsabiukmv98.github.io/Landy/)
